@@ -1,0 +1,6 @@
+bash
+ssh root@47.106.229.157
+yes
+
+Welcome to Alibaba Cloud Elastic Compute Service !
+http://www.runoob.com/w3cnote/git-guide.html 上传教程
